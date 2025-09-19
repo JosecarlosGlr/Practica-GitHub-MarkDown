@@ -8,7 +8,7 @@ GitHub es una página de desarrollo colaborativo, que nos permite gestionar y al
 ## 1.Crear un repositorio
 ![Pagina principal](https://raw.githubusercontent.com/JosecarlosGlr/Practica-GitHub-MarkDown/refs/heads/main/1.png)
 
-Una vez hemos iniciado sesión, para crear un nuevo repositorio podemos pinchar en _**NEW**_ o pinchar en nuestro perfil donde se desplegarán varias opciones y podemos pinchar en _**repositorios**_.
+Una vez hemos iniciado sesión, para empezar a trabajar necesitamos crear un nuevo repositorio podemos pinchar en _**NEW**_ o pinchar en nuestro perfil donde se desplegarán varias opciones y podemos pinchar en _**repositorios**_.
 
 ![Pagina principal](https://raw.githubusercontent.com/JosecarlosGlr/Practica-GitHub-MarkDown/refs/heads/main/21.png)
 
@@ -30,11 +30,11 @@ Seguimos completandola y finalmente pinchamos como dije anteriormente en _**crea
 
 ![Pagina principal](https://raw.githubusercontent.com/JosecarlosGlr/Practica-GitHub-MarkDown/refs/heads/main/6.png)
 
-Una vez tengas el repositorio se te abrirá esta ventana que es tu repositorio que acabas de crear.
+Una vez tengas el repositorio se te abrirá esta ventana que es tu repositorio que acabas de crear, **GitHub** te permite subir archivos al repostirio o crear nuevos.
 
 ![Pagina principal](https://raw.githubusercontent.com/JosecarlosGlr/Practica-GitHub-MarkDown/refs/heads/main/7.png)
 
-Para subir un archivo debes pinchar en _**add file**_ y aqui te da dos opciones o _**crear un nuevo archivo**_ o _**subir tu propio archivo**_ desde el dispositivo.
+Para subir o crear archivo debes pinchar en _**add file**_ y aqui te da dos opciones o _**crear un nuevo archivo**_ o _**subir tu propio archivo**_ desde el dispositivo.
 
 ![Pagina principal](https://raw.githubusercontent.com/JosecarlosGlr/Practica-GitHub-MarkDown/refs/heads/main/23.png)
 
@@ -56,15 +56,15 @@ Y ya tendrias en tu repositorio el nuevo archivo que has añadido.
 
 ![Pagina principal](https://raw.githubusercontent.com/JosecarlosGlr/Practica-GitHub-MarkDown/refs/heads/main/10Y12Y18.png)
 
-Si estando en esta ventana **pinchas sobre un archivo** como puede ser index.html este te llevara a otra ventana donde te mostrara el contenido.
+**GitHub** también te permite visualizar tus archivos que tienes en el repositorio, para esto debes estar en la ventana principal del repositorio y debes **pinchas sobre un archivo** como puede ser index.html este te llevara a otra ventana donde te mostrara el contenido.
 
 ![Pagina principal](https://raw.githubusercontent.com/JosecarlosGlr/Practica-GitHub-MarkDown/refs/heads/main/11.png)
 
-Y pinchando como he dicho asi es como nos muestra la información.
+Y pinchando como he dicho, nos muestra la información.
 
 ![Pagina principal](https://raw.githubusercontent.com/JosecarlosGlr/Practica-GitHub-MarkDown/refs/heads/main/10Y12Y18.png)
 
-Para **ver los commits** que hemos hecho en el repositorio podemos pinchar donde pone _**commits**_ que se encuentra debajo de la opción code o encima de los archivos del repositorio.
+También te permite **ver los commits** que hemos hecho en el repositorio, para ello debemos pinchar donde pone _**commits**_ que se encuentra debajo de la opción code o encima de los archivos del repositorio.
 
 ![Pagina principal](https://raw.githubusercontent.com/JosecarlosGlr/Practica-GitHub-MarkDown/refs/heads/main/13.png)
 
@@ -74,7 +74,7 @@ Y así es como nos aparecen los commits realizados.
 
 ![Pagina principal](https://raw.githubusercontent.com/JosecarlosGlr/Practica-GitHub-MarkDown/refs/heads/main/14.png)
 
-Estando en la página principal del repositorio y pinchas donde pone _**main**_ se te abrirá esta pequeña pestaña donde si te encuentras en la rama principal podras poner el nombre que deses poner a esta nueva rama y pinchar en _**create branch**_, una vez creamos esta nueva rama nos abrirá esta nueva rama.
+Además **GitHub** nos permite crear ramas y administrarlas, para ello estando en la página principal del repositorio pinchas donde pone _**main**_ y se te abrirá esta pequeña pestaña donde si te encuentras en la rama principal podras poner el nombre que deses poner a esta nueva rama y pinchar en _**create branch**_, una vez creamos esta nueva rama nos abrirá esta nueva rama.
 
 ![Pagina principal](https://raw.githubusercontent.com/JosecarlosGlr/Practica-GitHub-MarkDown/refs/heads/main/24.png)
 También puedes **trabajar en el codigó de esta rama**, que en un primer momento sera igual al de la principal pero si trabajamos en este no modifica nada de la rama principal.
@@ -107,7 +107,7 @@ cuando ya lo hayamos hecho pinchamos en _**create pull request**_.
 
 ![Pagina principal](https://raw.githubusercontent.com/JosecarlosGlr/Practica-GitHub-MarkDown/refs/heads/main/10Y12Y18.png)
 
-Estando en nuestra pagina principal del repositorio si queremos configurar cualquier cosa del repositorio picharemos en _**settings**_.
+Finalmente **GitHub** también nos permite configurar nuestro repositorio, para ello estando en nuestra pagina principal del repositorio picharemos en _**settings**_.
 
 ![Pagina principal](https://raw.githubusercontent.com/JosecarlosGlr/Practica-GitHub-MarkDown/refs/heads/main/19.png)
 
