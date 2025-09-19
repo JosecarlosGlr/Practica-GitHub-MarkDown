@@ -8,19 +8,19 @@ GitHub es una página de desarrollo colaborativo, que nos permite gestionar y al
 ## 1.Crear un repositorio
 ![Pagina principal](https://raw.githubusercontent.com/JosecarlosGlr/Practica-GitHub-MarkDown/refs/heads/main/1.png)
 
-Una vez hemos iniciado sesión para crear un nuevo repositorio podemos pulsar en new o pulsar nuestro perfil donde se desplegarán varias opciones y podemos pulsar en repositorios.
+Una vez hemos iniciado sesión, para crear un nuevo repositorio podemos pinchar en new o pinchar en nuestro perfil donde se desplegarán varias opciones y podemos pinchar en repositorios.
 
 ![Pagina principal](https://raw.githubusercontent.com/JosecarlosGlr/Practica-GitHub-MarkDown/refs/heads/main/21.png)
 
-En caso de pinchar en new se te abrirá esta ventana donde puedes rellenar todos los datos y finalmente pinchamos en crear repositorio.
+En caso de pinchar en new se te abrirá esta ventana donde puedes rellenar todos los datos y una vez rellenados pinchamos en crear repositorio.
 
 ![Pagina principal](https://raw.githubusercontent.com/JosecarlosGlr/Practica-GitHub-MarkDown/refs/heads/main/2Y5.png)
 
-Si hemos decidido hacerlo de la segunda forma se nos abriria esta ventana y tendriamos que pinchar en new
+Si hemos decidido hacerlo de la segunda forma se nos abriria esta ventana y tendremos que pinchar en new
 
 ![Pagina principal](https://raw.githubusercontent.com/JosecarlosGlr/Practica-GitHub-MarkDown/refs/heads/main/3.png)
 
-Y esta seria que se nos abriría en ambos casos para crear el repositorio
+Y esta seria la ventana que se nos abriría en ambos casos para crear el repositorio
 
 ![Pagina principal](https://raw.githubusercontent.com/JosecarlosGlr/Practica-GitHub-MarkDown/refs/heads/main/4.png)
 
@@ -34,7 +34,7 @@ Una vez tengas el repositorio se te abrirá esta ventana que es tu repositorio q
 
 ![Pagina principal](https://raw.githubusercontent.com/JosecarlosGlr/Practica-GitHub-MarkDown/refs/heads/main/7.png)
 
-Para subir un archivo debes pinchar en add file y aqui te da dos opciones o crear un nuevo archivo o subir tu propio archivo
+Para subir un archivo debes pinchar en add file y aqui te da dos opciones o crear un nuevo archivo o subir tu propio archivo desde el dispositivo
 
 ![Pagina principal](https://raw.githubusercontent.com/JosecarlosGlr/Practica-GitHub-MarkDown/refs/heads/main/23.png)
 
