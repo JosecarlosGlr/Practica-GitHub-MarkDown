@@ -123,5 +123,5 @@ En este documento he explicado el uso de github y de las herramientas que nos of
 
 ## Bibliografía
 
-[Chuletario md](https://markdownlivepreview.com/?authuser=0)
-[Pdf introducción a GitHub](https://github.com/JosecarlosGlr/Practica-GitHub-MarkDown/blob/main/GitHub_%20Introducci%C3%B3n.pdf)
+[Chuletario md](https://markdownlivepreview.com/?authuser=0)  
+[Pdf introducción a GitHub](https://github.com/JosecarlosGlr/Practica-GitHub-MarkDown/blob/main/GitHub_%20Introducci%C3%B3n.pdf)  
