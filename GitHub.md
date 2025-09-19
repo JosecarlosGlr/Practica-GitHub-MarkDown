@@ -2,7 +2,7 @@
 ### José Carlos Goméz-Lobo Ramírez
 
 
-GitHub es una página de desarrollo colaborativo, que nos permite gestionar y almacenar proyectos utilizando Git(un sistema de control de versiones).Esta nos permite realizar un seguimiento de los cambios en el código, colaborar en tiempo real, y gestionar problemas o "bugs". En resumen, GitHub es una herramienta fantástica para el desarrollo colaborativo y para el control de versiones.
+GitHub es una página de desarrollo colaborativo, que nos permite gestionar y almacenar proyectos utilizando Git(sistema de control de versiones).GitHub nos permite realizar un seguimiento de los cambios en el código, colaborar en tiempo real, y gestionar problemas. En resumen, GitHub es una herramienta fantástica para el desarrollo colaborativo y para el control de versiones.
 
 
 ## 1.Crear un repositorio
@@ -119,7 +119,7 @@ Desde los ajustes también puedes añadir colaboradores al proyecto.
 
 ## Conclusiones
 
-
+En este documento he explicado el uso de github y de las herramientas que nos ofrece para realizar nuestros proyectos
 
 ## Bibliografía
 
