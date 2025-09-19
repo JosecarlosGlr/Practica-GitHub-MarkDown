@@ -8,7 +8,7 @@ GitHub es una página de desarrollo colaborativo, que nos permite gestionar y al
 ## 1.Crear un repositorio
 ![Pagina principal](https://raw.githubusercontent.com/JosecarlosGlr/Practica-GitHub-MarkDown/refs/heads/main/1.png)
 
-Una vez hemos iniciado sesión, para crear un nuevo repositorio podemos pinchar en new o pinchar en nuestro perfil donde se desplegarán varias opciones y podemos pinchar en repositorios.
+Una vez hemos iniciado sesión, para crear un nuevo repositorio podemos pinchar en _new_ o pinchar en nuestro perfil donde se desplegarán varias opciones y podemos pinchar en repositorios.
 
 ![Pagina principal](https://raw.githubusercontent.com/JosecarlosGlr/Practica-GitHub-MarkDown/refs/heads/main/21.png)
 
